@@ -4,8 +4,9 @@ For this project, we needed to create a backend and a frontend. For the backend 
 
 ## The problem
 
-We began by coding along to the live sessions to get all the routes to work - so that a user could register and log in and see ‘thoughts’ that had been added to the database via Postman. We then decided to add an input field so that a logged-in user could add their own ‘thoughts’, and additionally we added functionality to see what ‘thoughts’ other users had, and who had written them. Finally, we added ‘like’ buttons which any user could click if they liked a ‘thought’.
+We began by coding along to the live sessions to get all the routes to work - so that a user could register and log in and see ‘thoughts’ that had been added to the database via Postman. We then decided to add an input field so that a logged-in user could add their own ‘thoughts’, and additionally we added functionality to see what ‘thoughts’ other users had, and who had written them. Finally, we added ‘like’ buttons which any user could click if they liked a ‘thought’. If we had more time we would continue with the google authentication. 
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+Frontend: https://fiona-emilia-anna-auth.netlify.app/
+Backend: https://project-authh-oivc6zag6a-lz.a.run.app
